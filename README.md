@@ -1,11 +1,11 @@
 - Englsih
 - 👋 Hi, I'm @Itsgonza
 - 👀 I am interested in fivem
-- 🌱 I am currently learning to program .lua
-- 📫 How to contact me Itsgonza # 9112
+- 🌱 I am currently learning to program lua
+- 📫 How to contact me itsgonza0
 
 - Español
 - 👋 Hola, soy @Itsgonza
 - 👀 Estoy interesado en fivem
-- 🌱 Actualmente estoy aprendiendo a programar .lua
-- 📫 Cómo contactarme Itsgonza # 9112
+- 🌱 Actualmente estoy aprendiendo a programar lua
+- 📫 Cómo contactarme itsgonza0
